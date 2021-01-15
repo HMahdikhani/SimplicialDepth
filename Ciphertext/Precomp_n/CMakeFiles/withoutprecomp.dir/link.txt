@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/withoutprecomp.dir/withoutprecomp.cpp.o  -o withoutprecomp /home/hm/seallib/lib/libseal.a -pthread 

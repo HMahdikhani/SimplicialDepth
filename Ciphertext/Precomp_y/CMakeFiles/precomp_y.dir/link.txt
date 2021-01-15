@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/precomp_y.dir/precomp_y.cpp.o  -o precomp_y /home/hm/seallib/lib/libseal.a -pthread 

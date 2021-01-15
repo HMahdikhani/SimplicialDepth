@@ -1,0 +1,3 @@
+/home/hm/Desktop/SEAL/Precomp_y/CMakeFiles/rebuild_cache.dir
+/home/hm/Desktop/SEAL/Precomp_y/CMakeFiles/precomp_y.dir
+/home/hm/Desktop/SEAL/Precomp_y/CMakeFiles/edit_cache.dir
